@@ -1,0 +1,6 @@
+streamlit
+dotenv
+requests
+gql
+httpx
+"python-socketio[client]"
